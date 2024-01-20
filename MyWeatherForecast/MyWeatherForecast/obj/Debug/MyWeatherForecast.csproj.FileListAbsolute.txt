@@ -1,0 +1,14 @@
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\bin\Debug\MyWeatherForecast.exe.config
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\bin\Debug\MyWeatherForecast.exe
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\bin\Debug\MyWeatherForecast.pdb
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\bin\Debug\Newtonsoft.Json.dll
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\bin\Debug\Newtonsoft.Json.xml
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\obj\Debug\MyWeatherForecast.csproj.AssemblyReference.cache
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\obj\Debug\MyWeatherForecast.csproj.SuggestedBindingRedirects.cache
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\obj\Debug\MyWeatherForecast.Form1.resources
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\obj\Debug\MyWeatherForecast.Properties.Resources.resources
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\obj\Debug\MyWeatherForecast.csproj.GenerateResource.cache
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\obj\Debug\MyWeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\obj\Debug\MyWeatherForecast.csproj.CopyComplete
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\obj\Debug\MyWeatherForecast.exe
+C:\Users\debor\OneDrive\Desktop\Fall 2023\WeatherForecastProject\MyWeatherForecast\MyWeatherForecast\obj\Debug\MyWeatherForecast.pdb
